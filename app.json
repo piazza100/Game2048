@@ -1,0 +1,8 @@
+{
+  "name": "Game2048",
+  "displayName": "Game2048",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6768074421983668~8500875039",
+    "user_tracking_usage_description": "This identifier will be used to deliver personalized ads to you."
+  }
+}
